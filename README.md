@@ -3,7 +3,10 @@ This webapplication enabling visitors to browse categories, food items, and plac
 
 # Features
 
-1.Visitors/Users can browse all the Categories and Food Items./n
+1.Visitors/Users can browse all the Categories and Food Items.
+
 2.They also can order easily from the website.
+
 3.Admin can Manage Admin, Caegories and Food Items
+
 4.Admin can also Manage and Track Food Order and Delivery
