@@ -1,6 +1,8 @@
 # 🥘 Food Order Website
 This webapplication enabling visitors to browse categories, food items, and place orders easily. Admin interface facilitates managing admins, categories, food items, and tracking orders and deliveries efficiently.
 
+![foodorder_pr](https://github.com/user-attachments/assets/5e3b577f-1d8e-4724-9fcc-cbf20451f911)
+
 
 # ⚙️ Technology Used
 1. HTML5
